@@ -8,7 +8,7 @@ Part 1:
 
 Part 2:
 
-2.1: See 2.1-Image file
+2.1: See 2.1-image.jpg file
 
 2.2: See Part-2.py file for implementation of frequency-analysis
 
