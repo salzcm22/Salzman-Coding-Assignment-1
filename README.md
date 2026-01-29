@@ -11,7 +11,7 @@ Part 2:
 
 2.1: See 2.1-image.jpg file
 
-2.2: See Part-2.py file for implementation of frequency-analysis
+2.2: See Part-2.py file for implementation of frequency-analysis()
 
 2.3: The cross-correlation for Set 1 and Set 2 is 0.003098. The cross-correlation for Set 1 and Set 3 is 0.00254. Both of these values were calculated using the cross-correlation function as seen in the Part-2.py file
 
