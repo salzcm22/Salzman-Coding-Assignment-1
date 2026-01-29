@@ -1,5 +1,6 @@
 # Salzman-Coding-Assignment-1
-Both parts of the first coding assignment for CSC 348
+
+Here you fill find the map of where to look for answers to each individual part of the assignment, as well as some of the solutions themselves. Each code has been commented to explain to the reader what the code does and how it necessarily works. The tests themselves are not included with the files, but rather just the implementations of the solutions.
 
 Part 1:
 
